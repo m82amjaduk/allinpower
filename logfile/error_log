@@ -1,0 +1,18 @@
+[Tue Mar 18 18:04:02 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/favicon.ico
+[Tue Mar 18 18:04:02 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/favicon.ico
+[Sun Mar 23 00:24:36 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/favicon.ico
+[Sun Mar 23 11:55:24 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/favicon.ico
+[Sun Mar 23 11:56:37 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/img, referer: http://allinpower.lc/
+[Sun Mar 23 11:56:56 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/img, referer: http://allinpower.lc/
+[Sun Mar 23 11:57:30 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/img, referer: http://allinpower.lc/
+[Sun Mar 23 12:07:57 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios, referer: http://allinpower.lc/
+[Sun Mar 23 12:08:18 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:08:51 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:08:51 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:08:52 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:08:52 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:09:28 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios, referer: http://allinpower.lc/
+[Sun Mar 23 12:09:42 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/vedios
+[Sun Mar 23 12:12:13 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/allinpower/src/web/videos, referer: http://allinpower.lc/
+[Sun Mar 23 12:13:21 2014] [error] [client 127.0.0.1] script '/home/amzad/dev/allinpower/src/web/index2.php' not found or unable to stat
+[Sun Mar 23 12:13:30 2014] [error] [client 127.0.0.1] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.

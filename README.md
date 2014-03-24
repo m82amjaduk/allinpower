@@ -1,4 +1,3 @@
-allinpower
-==========
+V: Codeigniter_2.1.3
 
-allinpower
+deploy :: ../ServerConf/deployLive.sh
