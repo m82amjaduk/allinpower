@@ -11,3 +11,6 @@ git push
 
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> $MESSAGE  ";
 git status
+
+
+# Need to add each file separately when added...
