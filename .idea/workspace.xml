@@ -23,13 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="order.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="order.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rnd/order.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.31088084" vertical-offset="0" max-vertical-offset="2025">
+            <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2025">
               <folding>
                 <element signature="e#6#85#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gitPush.sh" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.29220778" vertical-offset="0" max-vertical-offset="616">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php" />
         <option value="$PROJECT_DIR$/ServerConf/deployLive.sh" />
         <option value="$PROJECT_DIR$/rnd/order.php" />
+        <option value="$PROJECT_DIR$/ServerConf/gitPush.sh" />
       </list>
     </option>
   </component>
@@ -118,7 +128,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rnd" />
+              <option name="myItemId" value="ServerConf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,6 +172,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ServerConf" />
       <recent name="$PROJECT_DIR$/src/web" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -307,10 +318,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rnd/order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.31088084" vertical-offset="0" max-vertical-offset="2025">
+        <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2025">
           <folding>
             <element signature="e#6#85#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.29220778" vertical-offset="0" max-vertical-offset="616">
+          <folding />
         </state>
       </provider>
     </entry>
