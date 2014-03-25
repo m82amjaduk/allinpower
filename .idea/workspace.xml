@@ -34,10 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gitPush.sh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gitPush.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.29220778" vertical-offset="0" max-vertical-offset="616">
+            <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deployLive.sh" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="616">
               <folding />
             </state>
           </provider>
@@ -61,9 +70,9 @@
         <option value="$PROJECT_DIR$/src/web/application/views/welcome_message.php" />
         <option value="$PROJECT_DIR$/src/web/.htaccess" />
         <option value="$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php" />
-        <option value="$PROJECT_DIR$/ServerConf/deployLive.sh" />
         <option value="$PROJECT_DIR$/rnd/order.php" />
         <option value="$PROJECT_DIR$/ServerConf/gitPush.sh" />
+        <option value="$PROJECT_DIR$/ServerConf/deployLive.sh" />
       </list>
     </option>
   </component>
@@ -279,13 +288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.121753246" vertical-offset="0" max-vertical-offset="616">
@@ -327,7 +329,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.29220778" vertical-offset="0" max-vertical-offset="616">
+        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
