@@ -26,7 +26,7 @@
       <file leaf-file-name="gitPush.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.43010753" vertical-offset="0" max-vertical-offset="558">
+            <state line="9" column="8" selection-start="126" selection-end="126" vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -355,7 +355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.43010753" vertical-offset="0" max-vertical-offset="558">
+        <state line="9" column="8" selection-start="126" selection-end="126" vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
