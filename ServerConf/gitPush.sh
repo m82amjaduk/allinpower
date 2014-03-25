@@ -2,17 +2,12 @@
 
 MESSAGE=$1;
 
+echo $MESSAGE;
+
 git status
 git add .
 git commit -m "$MESSAGE"
 git push
 
-
-
-
-
+echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> $MESSAGE  ";
 git status
-
-
-
-## ~sfvjskfjs

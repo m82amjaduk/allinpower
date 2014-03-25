@@ -23,30 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="order.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rnd/order.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2025">
-              <folding>
-                <element signature="e#6#85#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="gitPush.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+            <state line="13" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deployLive.sh" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+      <file leaf-file-name="tse.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rnd/tse.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="616">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="41" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
               <folding />
             </state>
           </provider>
@@ -65,14 +63,14 @@
         <option value="$PROJECT_DIR$/src/web/index.html" />
         <option value="$PROJECT_DIR$/src/web/license.txt" />
         <option value="$PROJECT_DIR$/src/web/__index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/web/application/controllers/vedios.php" />
         <option value="$PROJECT_DIR$/src/web/application/views/welcome_message.php" />
         <option value="$PROJECT_DIR$/src/web/.htaccess" />
         <option value="$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php" />
         <option value="$PROJECT_DIR$/rnd/order.php" />
-        <option value="$PROJECT_DIR$/ServerConf/gitPush.sh" />
         <option value="$PROJECT_DIR$/ServerConf/deployLive.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ServerConf/gitPush.sh" />
       </list>
     </option>
   </component>
@@ -138,6 +136,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ServerConf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allinpower" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allinpower" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rnd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,13 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="22" selection-end="59" vertical-scroll-proportion="0.048701297" vertical-offset="0" max-vertical-offset="616">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/web/application/views/welcome_message.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="615" selection-end="615" vertical-scroll-proportion="0.13851352" vertical-offset="308" max-vertical-offset="1035">
@@ -318,9 +323,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="134" selection-end="134" vertical-scroll-proportion="0.048701297" vertical-offset="0" max-vertical-offset="616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rnd/order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="2025">
+        <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="0.44041452" vertical-offset="0" max-vertical-offset="2025">
           <folding>
             <element signature="e#6#85#0" expanded="true" />
           </folding>
@@ -329,14 +348,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+        <state line="13" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+    <entry file="file://$PROJECT_DIR$/rnd/tse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.073051944" vertical-offset="0" max-vertical-offset="616">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
