@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gitPush.sh" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.34946236" vertical-offset="0" max-vertical-offset="558">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tse.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rnd/tse.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="41" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+            <state line="3" column="4" selection-start="62" selection-end="101" vertical-scroll-proportion="0.08064516" vertical-offset="0" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
@@ -330,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rnd/order.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="0.44041452" vertical-offset="0" max-vertical-offset="2025">
@@ -346,16 +321,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rnd/tse.php">
+    <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="86" selection-end="86" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+        <state line="15" column="48" selection-start="245" selection-end="245" vertical-scroll-proportion="0.4032258" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.34946236" vertical-offset="0" max-vertical-offset="558">
+        <state line="3" column="4" selection-start="62" selection-end="101" vertical-scroll-proportion="0.08064516" vertical-offset="0" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
