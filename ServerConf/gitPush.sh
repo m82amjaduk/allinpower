@@ -5,9 +5,10 @@ MESSAGE=$1;
 echo $MESSAGE;
 
 git status
+echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Sending Code To Remote ";
 git add .
 git commit -a -m "$MESSAGE"
-git push
+git push origin
 
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> $MESSAGE  ";
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> New Status ";
