@@ -1,0 +1,14 @@
+
+html {
+    background: url(http://www.energycentric.co.uk/wp-content/uploads/2010/08/electric.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.header_resize {
+    margin: 0 auto;
+    padding: 10px 70px 10px 70px;
+    width: 870px;
+    background: gray;
+}

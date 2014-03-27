@@ -9,27 +9,16 @@
 
 <!DOCTYPE html>
 
-<style>
-
-html {
-    background: url(http://www.energycentric.co.uk/wp-content/uploads/2010/08/electric.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    }
-    .header_resize {
-    margin: 0 auto;
-        padding: 10px 70px 10px 70px;
-        width: 870px;
-        background: gray;
-    }
-</style>
 
 <html>
 <head>
     <title></title>
     <meta http-equiv="refresh" content="2000; url=http://mjamjad.acnshop.eu/default.asp?CO_LA=GB_EN" />
+    <link rel="stylesheet" type="text/css" href="<?=base_url()?>cono/css/style.css" />
+    <style>
+
+    </style>
+
 </head>
 <body>
 
