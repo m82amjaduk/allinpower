@@ -7,3 +7,5 @@ deploy :: ../ServerConf/deployLive.sh
 
 GIT -- http://classic.scottr.org/presentations/git-in-5-minutes/
 git checkout -b Deploy2
+git commit -a -m "WIP"
+git push origin Deploy2

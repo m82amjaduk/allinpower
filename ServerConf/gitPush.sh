@@ -6,10 +6,11 @@ echo $MESSAGE;
 
 git status
 git add .
-git commit -m "$MESSAGE"
+git commit -a -m "$MESSAGE"
 git push
 
 echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> $MESSAGE  ";
+echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> New Status ";
 git status
 
 
