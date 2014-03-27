@@ -23,10 +23,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="localCommand" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ServerConf/localCommand">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="62" selection-end="101" vertical-scroll-proportion="0.08064516" vertical-offset="0" max-vertical-offset="558">
+            <state line="2" column="13" selection-start="61" selection-end="100" vertical-scroll-proportion="0.048701297" vertical-offset="0" max-vertical-offset="616">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deployLive.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="8" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessPresentation.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="64" selection-start="310" selection-end="310" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="630">
+              <folding>
+                <element signature="e#6#85#0" expanded="true" />
+                <marker date="1395949499950" expanded="true" signature="373:387" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="videos.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/application/controllers/videos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="5" selection-start="396" selection-end="396" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="465">
+              <folding>
+                <element signature="e#6#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/web/cono/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -48,20 +89,23 @@
         <option value="$PROJECT_DIR$/src/web/application/controllers/vedios.php" />
         <option value="$PROJECT_DIR$/src/web/application/views/welcome_message.php" />
         <option value="$PROJECT_DIR$/src/web/.htaccess" />
-        <option value="$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php" />
         <option value="$PROJECT_DIR$/rnd/order.php" />
         <option value="$PROJECT_DIR$/ServerConf/deployLive.sh" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ServerConf/gitPush.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/web/cono/css/style.css" />
+        <option value="$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php" />
+        <option value="$PROJECT_DIR$/src/web/application/controllers/videos.php" />
+        <option value="$PROJECT_DIR$/ServerConf/localCommand" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="338" />
-    <option name="width" value="1307" />
-    <option name="height" value="686" />
+    <option name="x" value="49" />
+    <option name="y" value="336" />
+    <option name="width" value="1317" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -117,7 +161,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ServerConf" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -131,7 +179,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rnd" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cono" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allinpower" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allinpower" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cono" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -145,8 +227,8 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="options.lastSelected" value="editor.preferences.folding" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -206,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="338" width="1307" height="686" extended-state="0" />
+    <frame x="49" y="336" width="1317" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -215,7 +297,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14154552" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14047077" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -223,11 +305,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -242,25 +324,26 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/web/__index.html">
+    <entry file="file://$PROJECT_DIR$/ServerConf/localCommand">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+        <state line="7" column="57" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/__index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/application/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="0.22804055" vertical-offset="0" max-vertical-offset="592">
-          <folding />
-        </state>
+        <state line="9" column="7" selection-start="114" selection-end="114" vertical-scroll-proportion="0.22804055" vertical-offset="0" max-vertical-offset="592" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/license.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="44" selection-start="779" selection-end="779" vertical-scroll-proportion="0.4599659" vertical-offset="0" max-vertical-offset="855">
-          <folding />
-        </state>
+        <state line="18" column="44" selection-start="779" selection-end="779" vertical-scroll-proportion="0.4599659" vertical-offset="0" max-vertical-offset="855" />
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -268,18 +351,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/application/controllers/welcome.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="42" selection-start="345" selection-end="345" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/application/controllers/videos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="35" selection-start="122" selection-end="122" vertical-scroll-proportion="0.21164021" vertical-offset="0" max-vertical-offset="567">
-          <folding>
-            <element signature="e#6#85#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="12" column="42" selection-start="345" selection-end="345" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="480" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/.htaccess">
@@ -291,14 +363,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web/application/views/welcome_message.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="615" selection-end="615" vertical-scroll-proportion="0.13851352" vertical-offset="308" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="26" column="0" selection-start="615" selection-end="615" vertical-scroll-proportion="0.13851352" vertical-offset="308" max-vertical-offset="1035" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php">
+    <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="744" selection-end="744" vertical-scroll-proportion="0.5945946" vertical-offset="203" max-vertical-offset="795">
+        <state line="15" column="48" selection-start="245" selection-end="245" vertical-scroll-proportion="0.4032258" vertical-offset="0" max-vertical-offset="558" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rnd/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="305" selection-end="305" vertical-scroll-proportion="0.28790787" vertical-offset="75" max-vertical-offset="2025">
           <folding>
             <element signature="e#6#85#0" expanded="true" />
           </folding>
@@ -307,30 +387,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerConf/deployLive.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="134" selection-end="134" vertical-scroll-proportion="0.048701297" vertical-offset="0" max-vertical-offset="616">
+        <state line="2" column="8" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rnd/order.php">
+    <entry file="file://$PROJECT_DIR$/src/web/cono/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="29" selection-start="347" selection-end="347" vertical-scroll-proportion="0.44041452" vertical-offset="0" max-vertical-offset="2025">
+        <state line="13" column="1" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/application/views/BusinessPresentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="64" selection-start="310" selection-end="310" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="e#6#85#0" expanded="true" />
+            <marker date="1395949499950" expanded="true" signature="373:387" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/application/controllers/videos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="396" selection-end="396" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="465">
           <folding>
             <element signature="e#6#85#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ServerConf/gitPush.sh">
+    <entry file="file://$PROJECT_DIR$/ServerConf/localCommand">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="245" selection-end="245" vertical-scroll-proportion="0.4032258" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="62" selection-end="101" vertical-scroll-proportion="0.08064516" vertical-offset="0" max-vertical-offset="558">
+        <state line="2" column="13" selection-start="61" selection-end="100" vertical-scroll-proportion="0.048701297" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
