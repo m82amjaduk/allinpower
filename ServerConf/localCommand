@@ -1,0 +1,9 @@
+
+Go to Dir :: cd /home/amzad/dev/allinpower/src
+Git Push ::  ../ServerConf/gitPush.sh WorkInProgress
+deploy :: ../ServerConf/deployLive.sh
+
+
+
+GIT -- http://classic.scottr.org/presentations/git-in-5-minutes/
+git checkout -b Deploy2
