@@ -27,7 +27,9 @@
 
 
 <div class="header_resize_1" >
-    <a href="/" > <img src="http://allinpower.co.uk/img/logo.png" width="100%" /> </a>
+    <a href="/" > <img src="<?=base_url()?>cono/images/logo.png" width="100%" /> </a>
+
+    <div class="clear"> </div>
 
     <div class="button">
         <a href="http://mjamjad.acnshop.eu/default.asp?CO_LA=GB_EN" > ACN Shop </a>
@@ -67,6 +69,11 @@
 
     <div class="button">
         <a href="/dp">Digital Phone Tools</a>
+    </div>
+    <div class="clear"> </div>
+
+    <div class="button">
+        <a href="/wellness">Wellness</a>
     </div>
 
     <br /><br /><br /> <br />

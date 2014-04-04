@@ -14,12 +14,14 @@ class Fu extends CI_Controller { // fu = First:Utility
     public function __construct() {
         parent::__construct();
         $this->load->helper('url');
+        $data['page'] = 'fu';
     }
 
 
     public function index()
     {
-        $this->load->view('fu');
+        $data['page'] = 'fu';
+        $this->load->view('main', $data);
     }
 }
 
