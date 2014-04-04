@@ -26,7 +26,7 @@
       <file leaf-file-name="localCommand" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ServerConf/localCommand">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="231" selection-end="253" vertical-scroll-proportion="0.21915585" vertical-offset="0" max-vertical-offset="616">
+            <state line="10" column="0" selection-start="254" selection-end="277" vertical-scroll-proportion="0.24350649" vertical-offset="0" max-vertical-offset="616">
               <folding />
             </state>
           </provider>
@@ -473,7 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ServerConf/localCommand">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="231" selection-end="253" vertical-scroll-proportion="0.21915585" vertical-offset="0" max-vertical-offset="616">
+        <state line="10" column="0" selection-start="254" selection-end="277" vertical-scroll-proportion="0.24350649" vertical-offset="0" max-vertical-offset="616">
           <folding />
         </state>
       </provider>
