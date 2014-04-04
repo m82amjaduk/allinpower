@@ -1,0 +1,18 @@
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function base_url() in /home/amzad/dev/allinpower/src/web/application/views/welcome_message.php on line 35
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   1. {main}() /home/amzad/dev/allinpower/src/web/index.php:0
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   2. require_once() /home/amzad/dev/allinpower/src/web/index.php:202
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /home/amzad/dev/allinpower/src/web/system/core/CodeIgniter.php:359
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   4. Welcome->index() /home/amzad/dev/allinpower/src/web/system/core/CodeIgniter.php:359
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /home/amzad/dev/allinpower/src/web/application/controllers/welcome.php:22
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /home/amzad/dev/allinpower/src/web/system/core/Loader.php:419
+[Fri Apr 04 15:30:51 2014] [error] [client 127.0.0.1] PHP   7. include() /home/amzad/dev/allinpower/src/web/system/core/Loader.php:833
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function base_url() in /home/amzad/dev/allinpower/src/web/application/views/welcome_message.php on line 35
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   1. {main}() /home/amzad/dev/allinpower/src/web/index.php:0
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   2. require_once() /home/amzad/dev/allinpower/src/web/index.php:202
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() /home/amzad/dev/allinpower/src/web/system/core/CodeIgniter.php:359
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   4. Welcome->index() /home/amzad/dev/allinpower/src/web/system/core/CodeIgniter.php:359
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() /home/amzad/dev/allinpower/src/web/application/controllers/welcome.php:22
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() /home/amzad/dev/allinpower/src/web/system/core/Loader.php:419
+[Fri Apr 04 15:31:45 2014] [error] [client 127.0.0.1] PHP   7. include() /home/amzad/dev/allinpower/src/web/system/core/Loader.php:833

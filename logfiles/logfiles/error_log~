@@ -1,0 +1,7 @@
+Hello World !![Wed Feb 05 12:28:31 2014] [error] [client 127.0.0.1] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;cwaiter&quot;\nFATAL:  password authentication failed for user &quot;cwaiter&quot; in /home/amzad/dev/tko/src/temp/index.php on line 12
+[Wed Feb 05 12:28:31 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Wed Feb 05 12:28:31 2014] [error] [client 127.0.0.1] PHP   1. {main}() /home/amzad/dev/tko/src/temp/index.php:0
+[Wed Feb 05 12:28:31 2014] [error] [client 127.0.0.1] PHP   2. pg_connect() /home/amzad/dev/tko/src/temp/index.php:12
+[Thu Feb 06 09:58:53 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/tko/src
+[Thu Feb 06 09:58:53 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/tko/src
+[Thu Feb 06 09:59:00 2014] [error] [client 127.0.0.1] File does not exist: /home/amzad/dev/tko/src
