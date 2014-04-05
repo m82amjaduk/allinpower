@@ -23,10 +23,29 @@ class Videos extends CI_Controller {
         $this->load->view('main', $data );
     }
 
-    public function businessPresentation() {
-        $data['page'] = "BusinessPresentation";
+    public function businessPresentation($link) {
+        $data['link'] = "//www.youtube.com/embed/$link";
+        $data['page'] = "videos";
         $this->load->view('main', $data );
     }
+//
+//    public function NewRepresentatives() {
+//        $data['link'] = '//www.youtube.com/embed/pCP3USzbR8A';
+//        $data['page'] = "videos";
+//        $this->load->view('main', $data );
+//    }
+//
+//    public function MarcIsaac() {
+//        $data['link'] = '//www.youtube.com/embed/';
+//        $data['page'] = "videos";
+//        $this->load->view('main', $data );
+//    }
+//
+//    public function ACNScamInvestigation2 () {
+//        $data['link'] = '//www.youtube.com/embed/SPrUioiP8Is';
+//        $data['page'] = "videos";
+//        $this->load->view('main', $data );
+//    }
 }
 
 

@@ -53,7 +53,7 @@
     <div class="clear"> </div>
 
     <div class="button">
-        <a href="/videos"> BusinessPresentation </a>
+        <a href="/videos"> Videos </a>
     </div>
     <div class="clear"> </div>
 
